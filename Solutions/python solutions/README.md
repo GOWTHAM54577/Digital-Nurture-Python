@@ -80,7 +80,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 1. Simple Hello World
 **Question:** Create `first.py` with `print("Hello World!")`, run the program, and display the terminal output.
 
-<img src="images/q1.png" width="500">
+<img src="images/1.png" width="500">
 
 
 ---
