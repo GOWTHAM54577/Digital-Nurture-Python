@@ -88,11 +88,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 2. Jupyter Notebook
 **Question:** Create a Jupyter Notebook, add code cells and markdown cells, and execute them.
 
-<img src="images/q2_1.png" width="500">
-
-<img src="images/q2_2.png" width="500">
-
-<img src="images/q2_3.png" width="500">
+<img src="images/2.png" width="500">
 
 
 ---
@@ -100,11 +96,8 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 3. VS Code Setup
 **Question:** Configure Python in VS Code, create a Python file, and verify IntelliSense and execution.
 
-<img src="images/q3_1.png" width="500">
+<img src="images/3.png" width="500">
 
-<img src="images/q3_2.png" width="500">
-
-<img src="images/q3_3.png" width="500">
 
 
 ---
@@ -112,7 +105,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 4. Float Precision
 **Question:** Calculate net salary after tax using `salary = 75000.5` and `tax_rate = 0.18`. Display the result with 2 decimal places.
 
-<img src="images/q4.png" width="500">
+<img src="images/4.png" width="500">
 
 
 ---
@@ -120,7 +113,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 5. Multiple Assignment
 **Question:** Use multiple assignment to unpack `(x, y)` coordinates and display them.
 
-<img src="images/q5.png" width="500">
+<img src="images/5.png" width="500">
 
 
 ---
@@ -128,7 +121,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 6. Modulo Operator
 **Question:** Determine whether `number = 17` is Even or Odd using the modulo operator.
 
-<img src="images/q6.png" width="500">
+<img src="images/6.png" width="500">
 
 
 ---
@@ -136,7 +129,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 7. Floor Division
 **Question:** Split `total_bill = 1250` among `people = 4` using floor division and display each person's share.
 
-<img src="images/q7.png" width="500">
+<img src="images/7.png" width="500">
 
 
 ---
@@ -144,7 +137,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 8. Min/Max Functions
 **Question:** Find the highest and lowest salary from `[50000, 75000, 62000, 95000]`.
 
-<img src="images/q8.png" width="500">
+<img src="images/8.png" width="500">
 
 
 ---
@@ -152,7 +145,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 9. Basic Input
 **Question:** Accept the user's name and display a greeting message.
 
-<img src="images/q9.png" width="500">
+<img src="images/9.png" width="500">
 
 
 ---
@@ -160,7 +153,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 10. Numeric Input
 **Question:** Accept age as input, convert it to integer, and display the next year's age.
 
-<img src="images/q10.png" width="500">
+<img src="images/10.png" width="500">
 
 
 ---
@@ -168,7 +161,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 11. Float Input
 **Question:** Accept weight in kilograms and convert it into pounds.
 
-<img src="images/q11.png" width="500">
+<img src="images/11.png" width="500">
 
 
 ---
@@ -176,7 +169,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 12. Simple If
 **Question:** Check whether a student passes or fails using `marks = 75`.
 
-<img src="images/q12.png" width="500">
+<img src="images/12.png" width="500">
 
 
 ---
@@ -184,7 +177,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 13. If-Else
 **Question:** Determine whether `num = 8` is Even or Odd.
 
-<img src="images/q13.png" width="500">
+<img src="images/13.png" width="500">
 
 
 ---
@@ -192,7 +185,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 14. If-Elif-Else
 **Question:** Assign grade A, B, or C using `score = 88`.
 
-<img src="images/q14.png" width="500">
+<img src="images/14.png" width="500">
 
 
 ---
@@ -200,7 +193,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 15. Nested If
 **Question:** Validate login credentials using nested if statements with `user = "admin"` and `pwd = "pass123"`.
 
-<img src="images/q15.png" width="500">
+<img src="images/15.png" width="500">
 
 
 ---
@@ -384,7 +377,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 38. Method Chaining
 **Question:** Create an employee object, apply salary updates using method chaining, and display the final salary.
 
-<img src="images/q38.png" width="500">
+<img src="images/38.png" width="500">
 
 
 ---
@@ -496,7 +489,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 52. Gradebook System
 **Question:** Manage student grades, calculate GPA, and compute class averages.
 
-<img src="images/q52.png" width="500">
+<img src="images/52.png" width="500">
 
 
 ---
