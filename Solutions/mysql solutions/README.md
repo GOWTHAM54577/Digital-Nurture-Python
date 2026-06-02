@@ -366,7 +366,7 @@ List all events that currently have no sessions scheduled under them.
 
 # Author
 
-**Vishal S**
+**GOWTHAM N**
 
-B.E. CSE (IoT)  
+B.E. CSE (CS)  
 Saveetha Engineering College
